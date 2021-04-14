@@ -1,4 +1,4 @@
 - 👋 Salut, je suis @ MRnolan1030
+- 🔭 Je suis actuellement Support Technique chez Lite-Heberg
 - 👀 Je m'intéresse à l'administration serveur et le développement
-- 🚧 Mon projet actuel est la création d'un hébergeur Cloud
 - 📫 Me contacter : nolanped@gmail.com
