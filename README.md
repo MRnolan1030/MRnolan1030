@@ -1,4 +1,4 @@
 - 👋 Salut, je suis Nolan Lopes
 - 🔭 Je suis actuellement Support Technique chez Lite-Heberg
-- 👀 Je m'intéresse à l'administration serveur et le développement
+- 👀 Je m'intéresse à l'administration serveur et le Développement Web
 - 📫 Me contacter : nolan@mrnolan1030.xyz
