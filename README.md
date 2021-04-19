@@ -10,7 +10,7 @@
 <br/>
 • 🚧 Actuellement entrain de monter un projet
 
-</h3> align="left">Mes compétences</h3>
+<h3 align="left">Mes compétences</h3>
 • HTML
 <br/>
 • PHP
