@@ -8,7 +8,11 @@
 
 <h3 align="center">Mes compétences</h3>
 - HTML
+<br/>
 - PHP
+<br/>
 - CSS
+<br/>
 - Administration serveur (Linux, Windows Server)
+<br/>
 - Réseaux
