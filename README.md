@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nolan Lopes</h1>
-<h3 align="center">Swiss Developer</h3>
-
 
 • 🔭 Je suis actuellement Support Technique chez Lite-Heberg
 <br/>
