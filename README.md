@@ -6,7 +6,7 @@
 - 👀 Je m'intéresse à l'administration serveur et le Développement Web
 - 📫 Me contacter : nolan@mrnolan1030.xyz
 
-<h3 align="center">Mes compétences</h3>
+<h3 align="left">Mes compétences</h3>
 - HTML
 <br/>
 - PHP
