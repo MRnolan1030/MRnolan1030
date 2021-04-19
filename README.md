@@ -6,7 +6,7 @@
 <br/>
 • 👀 Je m'intéresse à l'administration serveur et le Développement Web
 <br/>
-• 📫 Me contacter : nolan@mrnolan1030.xyz
+• ✉️ Me contacter : nolan@mrnolan1030.xyz
 <br/>
 • 🚧 Actuellement entrain de monter un projet
 
