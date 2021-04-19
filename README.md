@@ -8,7 +8,7 @@
 - 🚧 Actuellement entrain de monter un projet
 
 <h3 align="left">Mes compétences</h3>
-- HTML
+- 🚧 Actuellement entrain de monter un projet
 <br/>
 - PHP
 <br/>
