@@ -4,7 +4,7 @@
 
 • 🔭 Je suis actuellement Support Technique chez Lite-Heberg
 <br/>
-• 👀 Je m'intéresse à l'administration serveur et le Développement Web
+• 👀 Je m'intéresse à l'Administration Serveur et le Développement Web
 <br/>
 • ✉️ Me contacter : nolan@mrnolan1030.xyz
 <br/>
