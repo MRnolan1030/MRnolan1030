@@ -13,11 +13,13 @@
 <h3 align="left">Mes compétences</h3>
 • HTML
 <br/>
-• PHP
-<br/>
 • CSS
 <br/>
-• Administration serveur (Linux, Windows Server)
+• PHP
+<br/>
+• JS
+<br/>
+• Administration Systèmes (Linux, Windows Server)
 <br/>
 • Réseaux
 <br/>
