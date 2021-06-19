@@ -19,8 +19,10 @@
 <br/>
 • JS
 <br/>
-• Administration Systèmes (Linux, Windows Server)
+• Administration Systèmes (Ubuntu, Debian, Windows Server...)
 <br/>
 • Réseaux
 <br/>
 • Dessin Vectoriel
+<br/>
+• SQL
