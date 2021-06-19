@@ -2,11 +2,11 @@
 
 
 
-• 🔭 Je suis actuellement Support chez CraftServ
+• 🔭 Je suis actuellement Résponsable Support chez Rakons Cloud
 <br/>
 • 👀 Mes plus grandes passions sont l'Administration systèmes et le Développement Web
 <br/>
-• ✉️ Me contacter : nolan@mrnolan1030.xyz
+• ✉️ Me contacter : nlop@ik.me
 <br/>
 • 🚧 Actuellement entrain de monter un projet
 
