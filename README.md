@@ -2,7 +2,7 @@
 
 
 
-• 🔭 Je suis actuellement Résponsable Support chez Rakons Cloud
+• 🔭 Je suis actuellement Responsable Support chez Rakons Cloud
 <br/>
 • 👀 Mes plus grandes passions sont l'Administration systèmes et le Développement Web
 <br/>
